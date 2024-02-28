@@ -1,1 +1,1 @@
-<h1>girilen npotunu harf notuna çevirir</h1>
+<h1>girilen notu harf notuna çevirir</h1>
